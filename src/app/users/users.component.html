@@ -1,0 +1,27 @@
+<mat-card>
+    <table class="user-table">
+      <tr>
+        <th>Vorname</th>
+        <th>Nachname</th>
+        <th>Straße</th>
+        <th>Hausnummer</th>
+        <th>PLZ</th>
+        <th>Stadt</th>
+        <th>Land</th>
+        <th>e-mail</th>
+        <th>Status</th>              
+      </tr>
+      <tr *ngFor="let user of allUsers" > <!--[routerLink]="['/users/' + user['customIdName']] -->
+        <td>{{ user['firstName'] }}</td>
+        <td>{{ user['lastName'] }}</td>
+        <td>{{ user['street'] }}</td>      
+        <td>{{ user['number'] }}</td>
+        <td>{{ user['zipCode'] }}</td>
+        <td>{{ user['city'] }}</td>  
+        <td>{{ user['country'] }}</td>
+        <td>{{ user['email'] }}</td>
+        <td>{{ user['status'] }}</td>         
+      </tr>
+      </table>
+  </mat-card>
+

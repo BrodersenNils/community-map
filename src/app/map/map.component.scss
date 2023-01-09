@@ -1,0 +1,48 @@
+.map-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: 60px;
+  }
+  
+  .map-frame {
+    border: 2px solid black;
+    height: 100%;
+  }
+  
+  #map {
+    height: 100%;
+  }
+
+  mat-card {
+    position: absolute;    
+    right: 0;
+    bottom: 0;
+    height: 400px;
+    width: 200px;
+    margin: 25px;
+    z-index: 999;
+    border-radius: 15px;
+    opacity: 0.8;
+    img {
+      height: 100px;
+      width: 100px;
+      border: 1px solid black;
+      border-radius: 50%;
+    }
+  }
+
+  .button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    border-radius: 10px;
+    border: 1px solid lightgrey;
+    background-color: lightgrey;
+    &:hover {
+      cursor: pointer;
+    }
+  }

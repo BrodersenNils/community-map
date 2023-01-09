@@ -1,0 +1,72 @@
+[{
+    "firstName": "Max",
+    "lastName": "Mustermann",
+    "street": "Rümannstraße",
+    "number": 61,
+    "zipCode": "80804",
+    "city": "München",
+    "country": "Deutschland",
+    "email": "MM@gmail.de",
+    "status": "Alumni",
+    "password": "MM",
+    "langitude": "48.1771094",
+    "longitude": "11.5835209"
+  },
+  {
+    "firstName": "Tina",
+    "lastName": "Mustermann",
+    "street": "Lindwurmstraße",
+    "number": 170,
+    "zipCode": "80337",
+    "city": "München",
+    "country": "Deutschland",
+    "email": "TinaM@gmail.de",
+    "status": "Alumni",
+    "password": "TM",
+    "langitude": "48.1307898",
+    "longitude": "11.5603683"
+  },
+  {
+    "firstName": "Herbert",
+    "lastName": "Mustermann",
+    "street": "Hellerauer Straße",
+    "number": 4,
+    "zipCode": "01129",
+    "city": "Dresden",
+    "country": "Deutschland",
+    "email": "HerbertM@gmail.de",
+    "status": "Alumni",
+    "password": "HM",
+    "langitude": "51.0873327",
+    "longitude": "13.7209725"
+  },
+  {
+    "firstName": "Thomas",
+    "lastName": "Mustermann",
+    "street": "Straße des 17. Juni",
+    "number": 135,
+    "zipCode": "10623",
+    "city": "Berlin",
+    "country": "Deutschland",
+    "email": "ThomasM@gmail.de",
+    "status": "Alumni",
+    "password": "TM",
+    "langitude": "52.510942",
+    "longitude": "13.3287375"
+  },
+  {
+    "firstName": "Steffi",
+    "lastName": "Mustermann",
+    "street": "Frauentorgraben",
+    "number": 3,
+    "zipCode": "90443",
+    "city": "Nürnberg",
+    "country": "Deutschland",
+    "email": "SteffiM@gmail.de",
+    "status": "Alumni",
+    "password": "SM",
+    "langitude": "49.4463511",
+    "longitude": "11.0793285"
+    
+  }]
+  
